@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ipexperiment6/static/css/main.e6c13ad2.css",
+    "main.js": "/ipexperiment6/static/js/main.741e7d32.js",
+    "static/js/453.d73b0aaa.chunk.js": "/ipexperiment6/static/js/453.d73b0aaa.chunk.js",
+    "static/media/aman1.png": "/ipexperiment6/static/media/aman1.d26799d89667a6f71187.png",
+    "index.html": "/ipexperiment6/index.html",
+    "main.e6c13ad2.css.map": "/ipexperiment6/static/css/main.e6c13ad2.css.map",
+    "main.741e7d32.js.map": "/ipexperiment6/static/js/main.741e7d32.js.map",
+    "453.d73b0aaa.chunk.js.map": "/ipexperiment6/static/js/453.d73b0aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.741e7d32.js"
+  ]
+}
